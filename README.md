@@ -1,2 +1,2 @@
-# First-front-end-gym
-hand-on front-end project
+front-end-gym
+hand-on front-end project with html, css, boostrap
